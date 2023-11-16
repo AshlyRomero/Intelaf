@@ -1,0 +1,44 @@
+.panel-control{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1992px;
+    height: 60px;
+    margin: auto ; 
+}
+
+.nav-log{
+    display: flex;
+    align-items: center;
+}
+
+.panel-control img{
+    height: 45px;   
+}
+
+.nav-1{
+    width: 120px;
+    height: 60px;
+    background-color: gray;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-1 img{
+    width: 24px;
+    height: 24px;
+}
+
+.buscador{
+    width: 400px;
+    height: 60px;
+    background-color: gray;
+}
+
+.panel-iconos {
+    width: 500px;
+    height: 60px;
+    background-color: gray;
+}
+
